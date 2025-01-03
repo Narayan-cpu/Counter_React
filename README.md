@@ -19,5 +19,5 @@ The Counter React project demonstrates the basic usage of the `useState` hook in
 - CSS
 - HTML
 
-author: Narayan Prashant Naik
-gmail: naiknarayanp557@gmail.com
+--author: Narayan Prashant Naik
+--gmail: naiknarayanp557@gmail.com
